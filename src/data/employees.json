@@ -1,38 +1,41 @@
 [
   {
     "name": "Test",
+    "surname": "Testovich",
+    "position": "tester",
+    "info": "sl;dkf ;lksajd fl;saj f;lkaj f;ljasdplkfjlasjfplasjfdiohs dfihgsjidf isahgf iuahf",
     "contacts": [
-      "test",
-      "test",
-      "facebook/sdfsdf"
-    ],
-    "profilePicture": "./assets/images/team-2.jpg"
+      "https://facebook.com/id-opsdf",
+      "https://facebook.com/id-opsdf",
+      "https://facebook.com/id-opsdf",
+      "https://facebook.com/id-opsdf",
+      "https://facebook.com/id-opsdf"
+    ]
   },
   {
     "name": "Test",
+    "surname": "Testovich",
+    "position": "tester",
+    "info": "sl;dkf ;lksajd fl;saj f;lkaj f;ljasdplkfjlasjfplasjfdiohs dfihgsjidf isahgf iuahf",
     "contacts": [
-      "test",
-      "test",
-      "facebook/sdfsdf"
-    ],
-    "profilePicture": "./assets/images/team-2.jpg"
+      "https://facebook.com/id-opsdf",
+      "https://facebook.com/id-opsdf",
+      "https://facebook.com/id-opsdf",
+      "https://facebook.com/id-opsdf",
+      "https://facebook.com/id-opsdf"
+    ]
   },
   {
     "name": "Test",
+    "surname": "Testovich",
+    "position": "tester",
+    "info": "sl;dkf ;lksajd fl;saj f;lkaj f;ljasdplkfjlasjfplasjfdiohs dfihgsjidf isahgf iuahf",
     "contacts": [
-      "test",
-      "test",
-      "facebook/sdfsdf"
-    ],
-    "profilePicture": "./assets/images/team-2.jpg"
-  },
-  {
-    "name": "Test",
-    "contacts": [
-      "test",
-      "test",
-      "facebook/sdfsdf"
-    ],
-    "profilePicture": "./assets/images/team-2.jpg"
+      "https://facebook.com/id-opsdf",
+      "https://facebook.com/id-opsdf",
+      "https://facebook.com/id-opsdf",
+      "https://facebook.com/id-opsdf",
+      "https://facebook.com/id-opsdf"
+    ]
   }
 ]
